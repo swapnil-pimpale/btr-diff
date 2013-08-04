@@ -21,9 +21,15 @@ when daily incremental backups of the file system are to be taken and can be
 very easily integrated with existing snapshot management tools.
 
 Contributors:
+
 Nafisa Mandliwala
+
 Yash Shah
+
 Mohit Bhadade
+
 Narendra Pal Singh
+
 Swapnil Pimpale
+
 Ganesh Phatangare
